@@ -102,7 +102,7 @@ class MenuParser {
 
         public void setItems(final BottomNavigationItem[] items) {
             this.items = items;
-            this.shifting = null != items && items.length > 3;
+            this.shifting = null != items && items.length > 4;
         }
 
         public boolean isShifting() {
