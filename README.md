@@ -30,7 +30,7 @@ Installation
 
 In your project's `build.gradle` file add the following line to the `dependencies` group:
 
-	compile 'it.sephiroth.android.library.bottomnavigation:bottom-navigation:1.0.7'
+	compile 'com.github.fg2q1q3q:Material-BottomNavigation:version-1.0.7'
 
 
 Usage
